@@ -56,3 +56,5 @@ Once the install process has completed, your iOS device should reboot.
 8. Make sure your device information is displayed on the MDMPatcher window instead of --- --- ---. If it is not, quit the MDMPatcher App and re-open it. Once your iOS device information is displayed, click PATCH.
 9. Your iOS device will reboot and say that it has been restored.
 10. Follow the rest of the setup instructions on your iOS device, including connecting to wifi. It should be done.
+
+*** If you disabled SIP on your computer, re-enable it by rebooting your computer into Recovery Mode and this time use the Terminal command "csrutil enable".
